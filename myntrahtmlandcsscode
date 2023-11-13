@@ -1,0 +1,27 @@
+ <div class="banner_container">
+            <img class="banner_image" src="banner.jpg">
+        </div>
+        <div class="category_heading">Most Valuable Brands To Bag</div>
+        <div class="category_items">
+            <a href="#"><img class="sale_item" src="1.jpg"></a>
+            <a href="#"><img class="sale_item" src="2.jpg"></a>
+            <a href="#"><img class="sale_item" src="3.jpg"></a>
+            <a href="#"><img class="sale_item" src="4.jpg"></a>
+            <a href="#"><img class="sale_item" src="5.jpg"></a>
+            <a href="#"><img class="sale_item" src="6.jpg"></a>
+            <a href="#"><img class="sale_item" src="7.jpg"></a>
+            <a href="#"><img class="sale_item" src="8.jpg"></a>
+            <a href="#"><img class="sale_item" src="9.jpg"></a>
+            <a href="#"><img class="sale_item" src="10.jpg"></a>
+            <a href="#"><img class="sale_item" src="1.jpg"></a>
+            <a href="#"><img class="sale_item" src="2.jpg"></a>
+            <a href="#"><img class="sale_item" src="3.jpg"></a>
+            <a href="#"><img class="sale_item" src="4.jpg"></a>
+            <a href="#"><img class="sale_item" src="5.jpg"></a>
+            <a href="#"><img class="sale_item" src="6.jpg"></a>
+            <a href="#"><img class="sale_item" src="7.jpg"></a>
+            <a href="#"><img class="sale_item" src="8.jpg"></a>
+            
+          
+        </div>
+    </main>
